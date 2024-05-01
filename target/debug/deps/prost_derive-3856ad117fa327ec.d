@@ -1,0 +1,11 @@
+D:\UI_Sem_4\grpc-tutorial\target\debug\deps\prost_derive-3856ad117fa327ec.dll: C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\mod.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\group.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\map.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\message.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\oneof.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\scalar.rs
+
+D:\UI_Sem_4\grpc-tutorial\target\debug\deps\prost_derive-3856ad117fa327ec.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\mod.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\group.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\map.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\message.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\oneof.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\scalar.rs
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\mod.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\group.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\map.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\message.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\oneof.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-derive-0.10.1\src\field\scalar.rs:
